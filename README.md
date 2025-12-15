@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beatriceola&label=Profile%20views&color=0e75b6&style=flat" alt="beatriceola" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beatriceola" alt="beatriceola" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beatriceola" alt="beatriceola" /></a> </p> -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/Beatriceola?tab=repositories](https://github.com/Beatriceola?tab=repositories)
 
